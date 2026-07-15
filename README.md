@@ -1,6 +1,6 @@
 ## Oii! Eu sou Juliana Neto 👩🏻‍💻
 
-☕ Dev em formação | Entusiasta de IA & Dados Atualmente no 5º semestre de Sistemas de Informação e em busca de um estágio para aplicar meus conhecimentos em Python e Java. 🧠 Curiosa por IA Generativa e arquiteturas em nuvem. 📫 Vamos trocar uma ideia?
+☕ Dev em formação | Entusiasta de IA & Dados Atualmente no 6º semestre de Sistemas de Informação e em busca de um estágio para aplicar meus conhecimentos em Python e Java. 🧠 Curiosa por IA Generativa e arquiteturas em nuvem. 📫 Vamos trocar uma ideia?
 
 <div>
    <a href = "mailto:juneto.s88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
